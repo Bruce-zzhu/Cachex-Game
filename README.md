@@ -25,7 +25,7 @@ Program details: [project spec](project_spec.pdf)
 Format: "python -m referee \<n> \<red module> \<blue module> -c" </br>
 "-c" is optional, for the purpose of displaying colors
 ```
-python -m referee pygame pygame2 -c
+python -m referee 7 pygame pygame2 -c
 ```
 
 ## More info
