@@ -2,7 +2,7 @@
 AI agent  - Cachex board game
 
 ![demo image](demo.png) </br>
-(Example board with winning connection for Blue)
+(Example board above with winning connection for Blue)
 
 ## Brief intro to the game
 Cachex is a perfect-information two-player game played on an n * n rhombic, hexagonally tiled
