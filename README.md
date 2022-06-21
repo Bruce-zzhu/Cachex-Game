@@ -23,6 +23,7 @@ Program details: [project spec](project_spec.pdf)
 
 ## Run the code
 Format: "python -m referee \<n> \<red module> \<blue module> -c" </br>
+"n" is board size, in the range of 3 - 15 </br>
 "-c" is optional, for the purpose of displaying colors
 ```
 python -m referee 7 pygame pygame2 -c
